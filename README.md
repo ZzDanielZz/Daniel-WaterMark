@@ -1,7 +1,7 @@
 # Daniel Advanced Watermark
 
 A customizable watermark resource for FiveM servers that displays server information, player statistics, and player Steam profile pictures. This resource is designed to display important server details and player-specific information, such as their Steam profile picture, in a visually appealing manner.
-<br>Note: if your picture is in the requested size and still doesn't fit well try changing line 52 in /UserInterface-NUI/style.css
+<br># Note: if your picture is in the requested size and still doesn't fit well try changing line 52 in /UserInterface-NUI/style.css
 
 ## Features
 
