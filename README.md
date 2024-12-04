@@ -47,4 +47,4 @@ DN = {
 }
 ```
 ## Preview
-<img src="https://i.imgur.com/eKNDeDO.png" alt="Preview">
+<img src="https://i.imgur.com/0hrtwQE.png" alt="Preview">
